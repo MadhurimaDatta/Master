@@ -1,0 +1,3 @@
+This is text6.
+
+This is sixth example of file.
